@@ -6,3 +6,5 @@ const Allocation = require('./models/Allocation');
 
 const seedData = async () => {};
 module.exports = { seedData };
+
+// Seed rooms and courses
