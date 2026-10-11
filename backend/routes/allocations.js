@@ -6,3 +6,5 @@ router.get('/', protect, async (req, res) => {
   try { res.json(await Allocation.find().populate('course').populate('room')); } catch(e) { res.status(500).json({ message: e.message }); }
 });
 module.exports = router;
+
+// Manual allocation handler with clash detection
