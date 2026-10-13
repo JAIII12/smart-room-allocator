@@ -12,3 +12,5 @@ module.exports = router;
 // Delete allocation handler
 
 // Auto allocation algorithm structure
+
+// Capacity matching validation
