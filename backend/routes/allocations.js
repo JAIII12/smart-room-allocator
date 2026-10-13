@@ -10,3 +10,5 @@ module.exports = router;
 // Manual allocation handler with clash detection
 
 // Delete allocation handler
+
+// Auto allocation algorithm structure
