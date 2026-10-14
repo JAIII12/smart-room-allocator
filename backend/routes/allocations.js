@@ -16,3 +16,5 @@ module.exports = router;
 // Capacity matching validation
 
 // Slot overlap checking
+
+// Conflict detection query
