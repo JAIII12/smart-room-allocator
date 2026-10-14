@@ -14,3 +14,5 @@ module.exports = router;
 // Auto allocation algorithm structure
 
 // Capacity matching validation
+
+// Slot overlap checking
